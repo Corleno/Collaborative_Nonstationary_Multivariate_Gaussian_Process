@@ -1,2 +1,0 @@
-# Collaborative_Nonstationary_Multivariate_Gaussian_Process_
-The repo for collaborative nonstationary multivariate gaussian process
